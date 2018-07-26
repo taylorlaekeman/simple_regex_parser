@@ -1,2 +1,3 @@
 # simple_regex_parser
-A simple parser that can recognize certain RegEx constructs
+
+The parser can identify matches between strings and RegEx patterns featuring letters, numbers, Kleene stars ('\*'), and wildcards ('.').
